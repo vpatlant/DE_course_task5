@@ -35,7 +35,7 @@
 	192.168.1.2 - - [28/Jul/2024:12:39:56 +0000] "GET /index.html HTTP/1.1" 200 1234
 	EOL
 4. Создаем файл analyze_logs.sh: touch analyze_logs.sh
-5. Редактируем [его](https://github.com/vpatlant/DE_course_task5/analyze_logs.sh).
+5. Редактируем [его](https://github.com/vpatlant/DE_course_task5/blob/main/analyze_logs.sh).
 6. Добавляем права на исполнение: chmod +x analyze_logs.sh
 7. Запускаем:  ./analyze_logs.sh
 <br/>
