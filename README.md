@@ -33,7 +33,7 @@
 	192.168.1.1 - - [28/Jul/2024:12:37:56 +0000] "GET /index.html HTTP/1.1" 200 1234
 	192.168.1.4 - - [28/Jul/2024:12:38:56 +0000] "GET /about HTTP/1.1" 200 432
 	192.168.1.2 - - [28/Jul/2024:12:39:56 +0000] "GET /index.html HTTP/1.1" 200 1234
-	EOLв директории локального репозитория выполнена команда **git clone https://github.com/vpatlant/DE_course.git**
+	EOL
 4. Создаем файл analyze_logs.sh: touch analyze_logs.sh
 5. Редактируем [его](https://github.com/vpatlant/DE_course_task5/analyze_logs.sh).
 6. Добавляем права на исполнение: chmod +x analyze_logs.sh
