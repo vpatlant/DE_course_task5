@@ -38,6 +38,6 @@
 5. Редактируем [его](https://github.com/vpatlant/DE_course_task5/analyze_logs.sh).
 6. Добавляем права на исполнение: chmod +x analyze_logs.sh
 7. Запускаем:  ./analyze_logs.sh
-![скриншот запуска кода](https://github.com/vpatlant/DE_course_task5/DE_course_task_5.jpg)
+![скриншот запуска кода](https://github.com/vpatlant/DE_course_task5/blob/main/DE_course_task_5.jpg?raw=true)
 8. Вывод отчета:  nano report.txt
-![скриншот вывода результата](https://github.com/vpatlant/DE_course_task5/DE_course_task_5_output.jpg)
+![скриншот вывода результата](https://github.com/vpatlant/DE_course_task5/blob/main/DE_course_task_5_output.jpg?raw=true)
